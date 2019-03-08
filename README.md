@@ -6,7 +6,7 @@ This is an angular package that helps HanelDev, LLC communicate with WSDL SOAP p
 
 First, install the package using npm:
 
-    npm install soap-service --save
+    npm install hd-soap-service --save
 
 ## License
 
