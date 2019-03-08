@@ -1,0 +1,25 @@
+{
+  "name": "hd-soap-service",
+  "version": "1.0.0",
+  "description": "A package to help HanelDev, LLC communicate with any given WSDL Soap service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerryhanel/hd-soap-service.git"
+  },
+  "keywords": [
+    "HanelDev",
+    "soap",
+    "service",
+    "wsdl"
+  ],
+  "author": "Jerry Hanel <jhanel@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jerryhanel/hd-soap-service/issues"
+  },
+  "homepage": "https://github.com/jerryhanel/hd-soap-service#readme"
+}
