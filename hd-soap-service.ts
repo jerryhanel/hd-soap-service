@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 @Injectable({
   providedIn: 'root'
 })
-export class SoapService {
+export class HdSoapService {
   public host = ''; 
   public port = 80;
   public pathToAsmx = ''; 
