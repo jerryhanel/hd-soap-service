@@ -1,3 +1,3 @@
-import { SoapService } from "./soap-service";
+import { HdSoapService } from "./hd-soap-service";
 
-export { SoapService }
+export { HdSoapService }
